@@ -2,7 +2,7 @@
 
 ## About
 
-This is a test svelte template
+This is a test svelte template.
 
 ## Building 
 
